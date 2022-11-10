@@ -29,7 +29,8 @@ a{
    text-decoration: none;
 }
 a:hover{
-    color: green;
+    /* this is the second modification*/
+    color: blueviolet;
 }
 a:active{
     color: blue;
